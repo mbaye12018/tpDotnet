@@ -1,0 +1,14 @@
+C:\Users\MBAYE DIENG\tpc#\conversion\conversion\bin\Debug\net8.0\conversion.exe
+C:\Users\MBAYE DIENG\tpc#\conversion\conversion\bin\Debug\net8.0\conversion.deps.json
+C:\Users\MBAYE DIENG\tpc#\conversion\conversion\bin\Debug\net8.0\conversion.runtimeconfig.json
+C:\Users\MBAYE DIENG\tpc#\conversion\conversion\bin\Debug\net8.0\conversion.dll
+C:\Users\MBAYE DIENG\tpc#\conversion\conversion\bin\Debug\net8.0\conversion.pdb
+C:\Users\MBAYE DIENG\tpc#\conversion\conversion\obj\Debug\net8.0\conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MBAYE DIENG\tpc#\conversion\conversion\obj\Debug\net8.0\conversion.AssemblyInfoInputs.cache
+C:\Users\MBAYE DIENG\tpc#\conversion\conversion\obj\Debug\net8.0\conversion.AssemblyInfo.cs
+C:\Users\MBAYE DIENG\tpc#\conversion\conversion\obj\Debug\net8.0\conversion.csproj.CoreCompileInputs.cache
+C:\Users\MBAYE DIENG\tpc#\conversion\conversion\obj\Debug\net8.0\conversion.dll
+C:\Users\MBAYE DIENG\tpc#\conversion\conversion\obj\Debug\net8.0\refint\conversion.dll
+C:\Users\MBAYE DIENG\tpc#\conversion\conversion\obj\Debug\net8.0\conversion.pdb
+C:\Users\MBAYE DIENG\tpc#\conversion\conversion\obj\Debug\net8.0\conversion.genruntimeconfig.cache
+C:\Users\MBAYE DIENG\tpc#\conversion\conversion\obj\Debug\net8.0\ref\conversion.dll
