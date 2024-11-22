@@ -1,0 +1,14 @@
+C:\Users\MBAYE DIENG\tpc#\tpc#\bin\Debug\net8.0\tpc#.exe
+C:\Users\MBAYE DIENG\tpc#\tpc#\bin\Debug\net8.0\tpc#.deps.json
+C:\Users\MBAYE DIENG\tpc#\tpc#\bin\Debug\net8.0\tpc#.runtimeconfig.json
+C:\Users\MBAYE DIENG\tpc#\tpc#\bin\Debug\net8.0\tpc#.dll
+C:\Users\MBAYE DIENG\tpc#\tpc#\bin\Debug\net8.0\tpc#.pdb
+C:\Users\MBAYE DIENG\tpc#\tpc#\obj\Debug\net8.0\tpc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MBAYE DIENG\tpc#\tpc#\obj\Debug\net8.0\tpc#.AssemblyInfoInputs.cache
+C:\Users\MBAYE DIENG\tpc#\tpc#\obj\Debug\net8.0\tpc#.AssemblyInfo.cs
+C:\Users\MBAYE DIENG\tpc#\tpc#\obj\Debug\net8.0\tpc#.csproj.CoreCompileInputs.cache
+C:\Users\MBAYE DIENG\tpc#\tpc#\obj\Debug\net8.0\tpc#.dll
+C:\Users\MBAYE DIENG\tpc#\tpc#\obj\Debug\net8.0\refint\tpc#.dll
+C:\Users\MBAYE DIENG\tpc#\tpc#\obj\Debug\net8.0\tpc#.pdb
+C:\Users\MBAYE DIENG\tpc#\tpc#\obj\Debug\net8.0\tpc#.genruntimeconfig.cache
+C:\Users\MBAYE DIENG\tpc#\tpc#\obj\Debug\net8.0\ref\tpc#.dll
